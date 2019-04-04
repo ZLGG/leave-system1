@@ -11,6 +11,7 @@ public class DataVo {
     private String updateTime;
     private String createTime;
     private Integer auditorId;
+    private String auditor;
     private Integer status;
     private Integer day;
     private String statusName;
